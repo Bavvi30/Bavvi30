@@ -196,5 +196,12 @@ A real-estate field application designed to simplify property discovery and help
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:38bdf8&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://github.com/user-attachments/assets/13ed8038-6b07-4c43-a59d-f9ed1c4fd6fb" width="200" alt="Welcome"/>
+<img src="https://github.com/user-attachments/assets/16a6e579-922d-4471-ba37-588196cb44ff" width="200" alt="Login"/>
+<img src="https://github.com/user-attachments/assets/18c5f9c2-3326-43e3-898e-3652768dc6be" width="200" alt="Home"/>
+<img src="https://github.com/user-attachments/assets/726d4a14-c92f-4fc2-893b-2808ff03395b" width="200" alt="Choose Contact"/>
+<img src="https://github.com/user-attachments/assets/428c4a41-96f8-43fd-b3f5-88e733073a99" width="200" alt="Choose Ride"/>
+<img src="https://github.com/user-attachments/assets/4d6b99c8-07e3-40d6-8341-b594796dec5a" width="200" alt="Tracking"/>
+<img src="https://github.com/user-attachments/assets/336b5f76-def2-4888-b53a-d2f04554b09f" width="200" alt="Ride Completed"/>
 
 </div>
