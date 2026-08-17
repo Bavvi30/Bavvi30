@@ -78,6 +78,20 @@ A ride-booking application built for the Indian market where users book rides th
 
 [🔗 Code](https://github.com/Bavvi30/ContactRide)
 
+**Screenshots**
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/13ed8038-6b07-4c43-a59d-f9ed1c4fd6fb" width="160" alt="Welcome"/>
+<img src="https://github.com/user-attachments/assets/16a6e579-922d-4471-ba37-588196cb44ff" width="160" alt="Login"/>
+<img src="https://github.com/user-attachments/assets/18c5f9c2-3326-43e3-898e-3652768dc6be" width="160" alt="Home"/>
+<img src="https://github.com/user-attachments/assets/726d4a14-c92f-4fc2-893b-2808ff03395b" width="160" alt="Choose Contact"/>
+<img src="https://github.com/user-attachments/assets/428c4a41-96f8-43fd-b3f5-88e733073a99" width="160" alt="Choose Ride"/>
+<img src="https://github.com/user-attachments/assets/034bbfe4-6f8a-443e-9280-b3c37f1f7da4" width="160" alt="Tracking"/>
+<img src="https://github.com/user-attachments/assets/336b5f76-def2-4888-b53a-d2f04554b09f" width="160" alt="Ride Completed"/>
+
+</div>
+
 ---
 
 ### 🏠 MyInfraHub
@@ -97,6 +111,22 @@ A real-estate field application designed to simplify property discovery and help
 | Domain | Real Estate |
 
 [🔗 Code](https://github.com/Bavvi30/myinfrahub)
+
+**Screenshots**
+
+<div align="center">
+
+<img width="160" height="390" alt="WhatsApp Image 2026-08-17 at 9 50 26 AM (2)" src="https://github.com/user-attachments/assets/b6dbe0b7-98e8-4639-95dd-21c34d1c15cd" />
+<img width="160" height="390" alt="WhatsApp Image 2026-08-17 at 9 50 26 AM" src="https://github.com/user-attachments/assets/a928dc6f-99c5-49cd-b065-18f74bd6ca74" />
+<img width="160" height="390" alt="WhatsApp Image 2026-08-17 at 9 50 26 AM (1)" src="https://github.com/user-attachments/assets/2241b0dd-56f0-427f-8457-c37a12f7f95c" />
+
+<img width="160" height="390" alt="WhatsApp Image 2026-08-17 at 9 50 28 AM" src="https://github.com/user-attachments/assets/cca57582-d384-4fb4-856b-1847c9575a41" />
+<img width="160" height="390" alt="WhatsApp Image 2026-08-17 at 9 50 28 AM (1)" src="https://github.com/user-attachments/assets/3e5b3f6f-09d6-4469-a292-c268482c086e" />
+<img width="160" height="390" alt="WhatsApp Image 2026-08-17 at 9 50 28 AM (2)" src="https://github.com/user-attachments/assets/437f05bf-c93d-440e-b580-9b597409a8da" />
+
+<img width="160" height="390" alt="WhatsApp Image 2026-08-17 at 9 50 27 AM (1)" src="https://github.com/user-attachments/assets/d1208676-b8f2-4ce1-8a74-28dce321732c" />
+
+</div>
 
 ---
 
@@ -132,6 +162,10 @@ A real-estate field application designed to simplify property discovery and help
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Developer tools"/>
 </p>
 
+<p>
+  [NOC26CS70S25620406204427746.pdf](https://github.com/user-attachments/files/31133910/NOC26CS70S25620406204427746.pdf)
+
+</p>
 ---
 
 ## 📊 GitHub Stats
@@ -191,17 +225,7 @@ A real-estate field application designed to simplify property discovery and help
 
 </div>
 
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:38bdf8&height=120&section=footer&animation=twinkling" width="100%"/>
-<img src="https://github.com/user-attachments/assets/13ed8038-6b07-4c43-a59d-f9ed1c4fd6fb" width="200" alt="Welcome"/>
-<img src="https://github.com/user-attachments/assets/16a6e579-922d-4471-ba37-588196cb44ff" width="200" alt="Login"/>
-<img src="https://github.com/user-attachments/assets/18c5f9c2-3326-43e3-898e-3652768dc6be" width="200" alt="Home"/>
-<img src="https://github.com/user-attachments/assets/726d4a14-c92f-4fc2-893b-2808ff03395b" width="200" alt="Choose Contact"/>
-<img src="https://github.com/user-attachments/assets/428c4a41-96f8-43fd-b3f5-88e733073a99" width="200" alt="Choose Ride"/>
-<img src="https://github.com/user-attachments/assets/034bbfe4-6f8a-443e-9280-b3c37f1f7da4" width="200" alt="Tracking"/>
-<img src="https://github.com/user-attachments/assets/336b5f76-def2-4888-b53a-d2f04554b09f" width="200" alt="Ride Completed"/>
-
 </div>
